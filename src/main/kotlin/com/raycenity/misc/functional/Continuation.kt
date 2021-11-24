@@ -1,4 +1,4 @@
-package com.raycenity.misc
+package com.raycenity.misc.functional
 
 import java.util.*
 
